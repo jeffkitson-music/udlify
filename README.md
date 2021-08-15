@@ -11,5 +11,5 @@ I am a teacher. In order to make education more accessible, course webpages need
 This is a hobby project for personal use to meet school requirements. Always follow current best practice to make education accessible to everyone.   
 
 ## :mega: Credits
-- [appJar](https://appjar.info).eally simple GUIs - really fast. 
+- [appJar](https://appjar.info). Really simple GUIs, really fast. 
 
