@@ -1,7 +1,7 @@
 # :thumbsup: udlify
 A simple tool to quickly convert text to title text. 
 
-## :dizzy: About
+## :speech_balloon: About
 This is a simple GUI implementation of the string.title() attribute in Python. Type or paste text in the text box, recieve title text back. 
 
 ## :books: Background
